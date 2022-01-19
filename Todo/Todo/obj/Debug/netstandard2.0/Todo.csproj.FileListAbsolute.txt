@@ -1,0 +1,17 @@
+F:\repos\Todo\Todo\Todo\bin\Debug\netstandard2.0\Todo.deps.json
+F:\repos\Todo\Todo\Todo\bin\Debug\netstandard2.0\Todo.dll
+F:\repos\Todo\Todo\Todo\bin\Debug\netstandard2.0\ref\Todo.dll
+F:\repos\Todo\Todo\Todo\bin\Debug\netstandard2.0\Todo.pdb
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.csproj.AssemblyReference.cache
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.AssemblyInfoInputs.cache
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.AssemblyInfo.cs
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.csproj.CoreCompileInputs.cache
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.dll
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\ref\Todo.dll
+F:\repos\Todo\Todo\Todo\obj\Debug\netstandard2.0\Todo.pdb

@@ -30,4 +30,18 @@ Cuando todo el codigo sea implementado correctamente se debe realizar la referen
 
 ![image](https://user-images.githubusercontent.com/66254573/150615073-11960617-86ef-49f7-a0c0-87ff8dece480.png)
 
+Con todos los pasos anteriores realizados, se preocede a probar la aplicación, para eso se hace uso de un celular físico por lo cual se ejecuta la compilación de la aplicacion y se obtienen los siguientes resultados:
+
+### Escritura de una nota
+
+![image](https://user-images.githubusercontent.com/66254573/150615330-eba5238c-3934-4697-9909-2871ee743ea7.png)
+
+### Visualización de tareas
+
+![image](https://user-images.githubusercontent.com/66254573/150615352-74cbe2a1-4154-4635-b460-7efec2287f82.png)
+
+
+### Elimincación de tareas
+
+![image](https://user-images.githubusercontent.com/66254573/150615376-db511e03-3e41-410e-9eec-128ce6bb1c6b.png)
 

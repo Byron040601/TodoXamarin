@@ -45,3 +45,11 @@ Con todos los pasos anteriores realizados, se preocede a probar la aplicación, 
 
 ![image](https://user-images.githubusercontent.com/66254573/150615376-db511e03-3e41-410e-9eec-128ce6bb1c6b.png)
 
+### Generación de apk
+
+Para generar el apk se debe compilar el proyecto y esperamos a que culmine el proceso de cimplación, como se visualiza en la siguiente imagen se observa la apk generada.
+
+![image](https://user-images.githubusercontent.com/66254573/150616254-6ff41630-1090-4538-a799-3bbcf371a385.png)
+
+
+
